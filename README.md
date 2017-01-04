@@ -1,3 +1,5 @@
+# Udacity Machine Learning Engineer Nanodegree 
+
 # Project 3: Unsupervised Learning
 ## Creating Customer Segments
 
